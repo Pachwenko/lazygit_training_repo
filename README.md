@@ -52,3 +52,16 @@ Steps:
 	4.	Push Your Updated Branch:
 	•	Once the merge commit is complete, press p in Lazygit.
 	•	Push your updated branch to the remote repository.
+
+
+---
+
+### Scenario 3: Alias lazygit to lg
+
+Not really for training, but since this is LAZY git we don't want to type more than necessary.
+
+Add this to your shell aliases:
+
+```
+alias lg=lazygit
+```
