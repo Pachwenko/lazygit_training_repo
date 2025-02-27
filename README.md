@@ -38,21 +38,19 @@ In this scenario, you’ll create another branch and merge changes from the bran
 
 Steps:
 	1.	Create Another New Branch:
-	•	In Lazygit, press b to create a new branch. Name it (e.g., feature/merge-conflicts).
+	•	In Lazygit, press 3 to go to the branches panel
+	•	Press n to create a new branch
 	2.	Merge Changes from conflicting_history:
-	•	With your new branch checked out, press m to bring up the merge menu.
+	•	Go to the branches panel again and press capital M to merge your current branch with the one named `conflicting_histories`
 	•	Select the branch named conflicting_history to merge into your current branch.
 	•	Lazygit will show you the merge process and any conflicts if they arise.
 	3.	Resolve Merge Conflicts:
 	•	If merge conflicts occur, Lazygit will highlight the files with conflicts.
 	•	Open each conflicted file (using your text editor) and resolve the conflicts manually.
 	•	After resolving the conflicts, return to Lazygit.
-	•	Stage the resolved files by selecting them and pressing s.
+	•	Stage the resolved files by going to the Files panel with `2` and pressing `a` to stage all or `<space>` to stage a single file
 	•	Commit the merge by pressing c and providing a commit message like “Resolve merge conflicts with conflicting_history”.
-	4.	Push Your Updated Branch:
-	•	Once the merge commit is complete, press p in Lazygit.
-	•	Push your updated branch to the remote repository.
-
+	4.	Push Your Updated Branch to remote!
 
 ---
 
