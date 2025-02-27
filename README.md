@@ -24,11 +24,11 @@ Steps:
 	3.	Commit the New File:
 	•	Return to Lazygit.
 	•	You should see your new file in the unstaged changes panel.
-	•	Stage the file by pressing s on it.
-	•	Once staged, press c to commit. Enter a commit message (e.g., “Add random.txt with sample data”).
+	•	Open the Files tab by pressing `2`
+	•	Stage the file by pressing <space> on it.
+	•	Once staged, press c to commit. Enter a commit message and a fake [] ticket link in the message section
 	4.	Push the File to Remote:
-	•	After committing, press p to open the push menu.
-	•	Push your branch to the remote repository.
+	•	After committing, press capital P to push your changes
 
 ---
 
