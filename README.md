@@ -14,9 +14,9 @@ In this scenario, you'll create a new branch, add a file with some random data, 
 
 Steps:
 1. Create a New Branch:
-*   Open Lazygit in your terminal.
-*	Press b to open the branch menu.
-*	Create a new branch by selecting "Create new branch" and name it appropriately (e.g., feature/new-file).
+*	Open lazygit
+*	In Lazygit, press 3 to go to the branches panel
+*	Press n to create a new branch
 2.	Create a New File and Add Random Data:
 *	Outside Lazygit (using your favorite text editor), create a new file (for example, random.txt) in the repository.
 *	Add some random content to this file.
