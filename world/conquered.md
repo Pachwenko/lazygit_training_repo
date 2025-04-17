@@ -1,4 +1,4 @@
-# It Conquered the World (1955)
+# It Conquered the World (1956)
 
 Peter Graves as Dr Paul Nelson
 
